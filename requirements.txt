@@ -1,0 +1,5 @@
+pandas
+investpy
+streamlit
+plotly
+matplotlib
